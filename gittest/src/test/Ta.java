@@ -2,9 +2,9 @@ package test;
 
 public class Ta {
     public int sum(int x,int y){return x+y;}
-    public void print(int x){}
+    public void print(){}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		 
 
 	}
 
